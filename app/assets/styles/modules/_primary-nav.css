@@ -11,5 +11,11 @@
     li {
         font-size: 2rem;
         margin-bottom: 1.5rem;
+        cursor: pointer;
+
+
+        &:hover {
+            color: #939393;
+        }
     }
 }

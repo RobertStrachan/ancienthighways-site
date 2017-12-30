@@ -1,5 +1,5 @@
 .site-footer {
-    display: none;
-    position: relative;
-    color: #FFF
+    position: realtive;
+    color: #FFF;
+    bottom: 0;
 }
