@@ -1,0 +1,15 @@
+.primary-nav {
+    position: absolute;
+    color: #FFF;
+    bottom: 0;
+    top: 5rem;
+
+    ul {
+        list-style: none;
+    }
+
+    li {
+        font-size: 2rem;
+        margin-bottom: 1.5rem;
+    }
+}
