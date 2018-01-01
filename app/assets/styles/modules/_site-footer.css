@@ -1,5 +1,6 @@
 .site-footer {
-    position: realtive;
+    position: relative;
     color: #FFF;
-    bottom: 0;
+    margin: 10px auto;
+    text-align: center;
 }

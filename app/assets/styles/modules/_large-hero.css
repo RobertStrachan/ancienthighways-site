@@ -21,6 +21,8 @@
         position: fixed;
         color: #FFF;
         font-size: .9rem;
+        z-index: 4;
+
 
         h1 {
             margin: -5px 0;
@@ -39,10 +41,15 @@
 
     &__socials {
         position: fixed;
-        z-index: 2;
+        z-index: 4;
         color: #FFF;
         top: 1rem;
         right: 0;
+
+        a {
+            color: #FFF;
+
+        }
 
         i {
             margin-right: 20px;

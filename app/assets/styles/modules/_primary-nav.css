@@ -14,6 +14,12 @@
         cursor: pointer;
 
 
+
+    }
+
+    a {
+        color: #FFF;
+
         &:hover {
             color: #939393;
         }
