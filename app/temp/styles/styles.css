@@ -450,9 +450,14 @@ template {
   display: none;
 }
 
+html {
+     overflow-x: hidden;
+}
+
 body {
     background-color: black;
     width: 100%; 
+    overflow-x: hidden;
 }
 
 img {
